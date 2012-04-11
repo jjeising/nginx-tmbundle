@@ -1,0 +1,1 @@
+Inspired by https://github.com/johnmuhl/nginx-tmbundle. May not work for everybody.
